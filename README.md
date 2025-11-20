@@ -10,8 +10,4 @@
    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
  </p>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=popescuandrei1406&theme=transparent" alt="Anurag's GitHub stats" />
-  </a>
-</div>
+
