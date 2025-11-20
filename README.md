@@ -5,9 +5,10 @@
   <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif" width=200p height=200p />
 </p>
  <p align="center">
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+   <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" />
  </p>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
