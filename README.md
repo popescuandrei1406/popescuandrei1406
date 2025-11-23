@@ -2,7 +2,7 @@
   <h1>Welcome to my profile</h1>
 </div>
 <p align="center">
-  <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAi/catjam-cat.gif" width=200p height=200p />
+  <img src="https://tenor.com/view/galaxy-mbuilds-gif-4700384527041508406" width=200p height=200p />
 </p>
  <p align="center">
    <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"/>
