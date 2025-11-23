@@ -2,7 +2,7 @@
   <h1>Welcome to my profile</h1>
 </div>
 <p align="center">
-  <img src="https://tenor.com/view/portal-gif-26294894" width=200p height=200p />
+  <img src="https://tenor.com/view/portal-gif-26294894" width=498p height=498p />
 </p>
  <p align="center">
    <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white"/>
